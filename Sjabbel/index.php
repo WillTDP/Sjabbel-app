@@ -25,9 +25,9 @@
       <div class="group-601 flex-col-hcenter">
         <div class="group-364 flex-row">
           <div class="hamburger flex-col">
-            <div class="group-739 flex-row">
-              <div class="ellipse-3" />
-              <div class="ellipse-4" />
+            <div class="circles flex-row">
+              <div class="ellipse-1" />
+              <div class="ellipse-2" />
             </div>
             <div class="group-649 flex-row">
               <div class="ellipse-3" />
