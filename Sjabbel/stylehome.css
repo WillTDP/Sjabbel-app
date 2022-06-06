@@ -164,7 +164,7 @@ p {
     height: 100%;
     position: relative;
     left: 920px;
-    top: -10px;
+    top: -15px;
   }
   
   .group-2 {
@@ -260,7 +260,7 @@ p {
   
   .logo-wip-1 {
     position: absolute;
-    top: 24px;
+    top: 0px;
     left: 376px;
     width: 327px;
     height: 136px;
