@@ -110,6 +110,9 @@ p {
     border-radius: 15px;
     margin-right: 12px;
     height: 30px;
+    position: absolute;
+    left: 30px;
+    top: 25px;
   }
   
   .ellipse-2 {
@@ -120,6 +123,9 @@ p {
     width: 30px;
     border-radius: 15px;
     height: 30px;
+    position: absolute;
+    left: 35px;
+    top: -5px;
   }
   
   .group-649 {
@@ -134,7 +140,10 @@ p {
     width: 30px;
     border-radius: 15px;
     margin-right: 12px;
+    position: absolute;
     height: 30px;
+    left: -6px;
+    top: 30px;
   }
   
   .ellipse-4 {
@@ -145,6 +154,9 @@ p {
     width: 30px;
     border-radius: 15px;
     height: 30px;
+    position: absolute;
+    left: 36px;
+    top: -5px;
   }
   
   .user {
