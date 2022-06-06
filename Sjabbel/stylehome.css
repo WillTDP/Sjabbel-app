@@ -162,6 +162,9 @@ p {
   .user {
     width: 100px;
     height: 100%;
+    position: relative;
+    left: 920px;
+    top: -10px;
   }
   
   .group-2 {
