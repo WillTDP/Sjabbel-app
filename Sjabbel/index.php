@@ -94,14 +94,17 @@
         alt="Not Found"
         class="group-1"
       />
-      <img
+     <!--<img
         src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-138%3A13?alt=media&token=5bc2e080-f9fd-447e-8c8a-ee9e271ed30a"
         alt="Not Found"
         class="bottom-bar"
-      />
+      />-->
       <div class="bar">
         <div class="rect"> </div>
         <div class="home_button"></div>
+        <img src="assets/homegr.png" alt="home" class="homeimg">
+        <img src="assets/Map.png" alt="map" class="mapimg">
+        <img src="assets/Crosshair.png" alt="games" class="gamesimg">
       </div>
     </div>
 </body>
