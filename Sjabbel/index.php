@@ -83,6 +83,7 @@
           </p>
         </div>
       </div>
+
       <img
         src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-16%3A53?alt=media&token=967278f2-7668-4dc3-8135-3c4059bc7f00"
         alt="Not Found"
@@ -98,6 +99,10 @@
         alt="Not Found"
         class="bottom-bar"
       />
+      <div class="bar">
+        <div class="rect"> </div>
+        <div class="home_button"></div>
+      </div>
     </div>
 </body>
 </html> 
