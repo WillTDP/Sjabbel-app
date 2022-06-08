@@ -43,8 +43,8 @@ p {
   
   .group-4 {
     position: absolute;
-    top: 1762px;
-    left: 110px;
+    top: 1622px;
+    left: 70px;
     width: 859px;
     height: 580px;
   }
@@ -82,7 +82,7 @@ p {
   }
   
   .group-364 {
-    padding: 36px 75px 17px 38px;
+
     margin-bottom: 101px;
     box-sizing: border-box;
     background-color: rgba(48, 61, 60, 1);
@@ -168,6 +168,9 @@ p {
   }
   
   .group-2 {
+    position: absolute;
+    left: 70px;
+    top: 172px;
     margin-bottom: 160px;
     box-sizing: border-box;
     width: fit-content;
@@ -199,6 +202,9 @@ p {
   }
   
   .group-3 {
+    position: absolute;
+    left: 70px;
+    top: 922px;
     margin-bottom: 979px;
     box-sizing: border-box;
     width: fit-content;
@@ -230,6 +236,9 @@ p {
   }
   
   .group-5 {
+    position: absolute;
+    left: 70px;
+    top: 2362px;
     width: fit-content;
   }
   

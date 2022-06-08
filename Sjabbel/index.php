@@ -9,21 +9,8 @@
 </head>
 <body>
 <div class="home flex-col-hstart-vstart clip-contents">
-      <div class="group-4 flex-col">
-        <p class="txt-957">Summerparty 2022</p>
-        <img
-          src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-14%3A47?alt=media&token=c015c72b-d159-4e3d-b0d7-a2faf0e89b13"
-          alt="Not Found"
-          class="rectangle-3"
-        />
-        <p class="txt-673">
-          Hey partypeople! Na een succesvolle Summerbarty zijn we terug met onze
-          SUMMERPARTY! Om dit te vieren zijn er niet 1 maar wel 2 avonden waarop
-          jullie meer dan welkom zijn!....
-        </p>
-      </div>
       <div class="group-601 flex-col-hcenter">
-        <div class="group-364 flex-row">
+        <div class="group-364">
           <div class="hamburger flex-col">
             <div class="circles flex-row">
               <div class="ellipse-1" />
@@ -40,7 +27,7 @@
             class="user"
           />
         </div>
-        <div class="group-2 flex-col">
+        <div class="group-2">
           <p class="txt-957">Afterwork 50jaar SVR</p>
           <img
             src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-14%3A24?alt=media&token=41a8b986-0db6-411e-b9a0-ce20eb8c99a4"
@@ -53,7 +40,7 @@
             de achtergrond; sfeer gegarandeerd! 🕺🏼🍔🍹🍸🍺 Save the date!
           </p>
         </div>
-        <div class="group-3 flex-col">
+        <div class="group-3">
           <p class="txt-957">Stam Cafe</p>
           <img
             src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-14%3A33?alt=media&token=4bef7355-5530-41ba-b553-3a96d81e9e71"
@@ -67,7 +54,20 @@
             meisjeslokaal.
           </p>
         </div>
-        <div class="group-5 flex-col">
+        <div class="group-4">
+           <p class="txt-957">Summerparty 2022</p>
+            <img
+              src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-14%3A47?alt=media&token=c015c72b-d159-4e3d-b0d7-a2faf0e89b13"
+              alt="Not Found"
+              class="rectangle-3"
+            />
+            <p class="txt-673">
+              Hey partypeople! Na een succesvolle Summerbarty zijn we terug met onze
+              SUMMERPARTY! Om dit te vieren zijn er niet 1 maar wel 2 avonden waarop
+              jullie meer dan welkom zijn!....
+            </p>
+      </div>
+        <div class="group-5">
           <p class="txt-957">Lorem Ipsum</p>
           <img
             src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-372%3A72?alt=media&token=84f26de2-b8e6-4af2-a1be-a8a0df860485"
