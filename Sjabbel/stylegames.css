@@ -18,17 +18,6 @@ p {
     height: 3365px;
   }
   
-  .hamburger {
-    margin-right: 793px;
-    box-sizing: border-box;
-    height: fit-content;
-  }
-  
-  .circles {
-    margin-bottom: 11px;
-    box-sizing: border-box;
-    width: 100%;
-  }
   
   .ellipse-1 {
     border: 5px solid rgba(242, 222, 222, 1);
@@ -41,7 +30,7 @@ p {
     height: 30px;
     position: absolute;
     left: 30px;
-    top: 25px;
+    top: 30px;
   }
   
   .ellipse-2 {
@@ -55,9 +44,6 @@ p {
     position: absolute;
     left: 35px;
     top: -5px;
-  }
-  .group-649 {
-    width: 100%;
   }
   
   .ellipse-3 {
@@ -96,8 +82,8 @@ p {
   }
   .logo-wip-1 {
     position: absolute;
-    top: -18px;
-    left: 376px;
+    top: -30px;
+    left: 341px;
     width: 327px;
     height: 136px;
   }
@@ -117,7 +103,7 @@ p {
  position: absolute;
   width: 1080px;
   height: 161px;
-  left: 0px;
+  left: -35px;
   top: 2239px;
   background: #112523;
   /* shadow thingys */
@@ -129,7 +115,7 @@ p {
 position: absolute;
 width: 181px;
 height: 181px;
-left: 449px;
+left: 414px;
 top: 2217px;
 background: #3D4F4C;
 border-radius: 50%;
@@ -140,21 +126,21 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 0px 15px rgba(0, 0, 0, 0.
   position: absolute;
   width: 140px;
   height: 140px;
-  left: 470px;
+  left: 435px;
   top: 2239px;
 }
 .mapimg {
   position: absolute;
   width: 110.5px;
   height: 105px;
-  left: 255.75px;
+  left: 220.75px;
   top: 2260.5px;
 }
 .gamesimg {
   position: absolute;
   width: 100px;
   height: 100px;
-  left: 716.5px;
+  left: 691.5px;
   top: 2263.5px;
 }
   /*.bottom-bar {
