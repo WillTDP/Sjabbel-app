@@ -103,8 +103,10 @@
         <div class="rect"> </div>
         <div class="home_button"></div>
         <img src="assets/homegr.png" alt="home" class="homeimg">
+        <a href="games.php">
+          <img src="assets/Crosshair.png" alt="games" class="gamesimg">
+        </a>
         <img src="assets/Map.png" alt="map" class="mapimg">
-        <img src="assets/Crosshair.png" alt="games" class="gamesimg">
       </div>
     </div>
 </body>

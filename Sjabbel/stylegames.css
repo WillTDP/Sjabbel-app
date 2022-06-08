@@ -8,29 +8,6 @@ p {
     overflow: hidden;
   }
   
-  .flex-col-hstart-vstart {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-  }
-  
-  .flex-col {
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .flex-col-hcenter {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .flex-row {
-    display: flex;
-    flex-direction: row;
-  }
-  
   .home {
     position: relative;
     background: linear-gradient(0deg, rgba(48, 61, 60, 1), rgba(48, 61, 60, 1)),
@@ -39,54 +16,6 @@ p {
     background-size: 100% 100%;
     width: 1080px;
     height: 3365px;
-  }
-  
-  .group-4 {
-    position: absolute;
-    top: 1622px;
-    left: 70px;
-    width: 859px;
-    height: 580px;
-  }
-  
-  .txt-957 {
-    font-size: 50px;
-    font-family: Museo Sans, sans-serif;
-    font-weight: undefined;
-    color: rgba(203, 215, 223, 1);
-    word-wrap: break-word;
-    margin-bottom: 6px;
-  }
-  
-  .rectangle-3 {
-    width: 858px;
-    height: 382px;
-    margin-bottom: 13px;
-  }
-  
-  .txt-673 {
-    font-size: 36px;
-    font-family: Museo Sans, sans-serif;
-    font-weight: undefined;
-    color: rgba(203, 215, 223, 1);
-    width: 860px;
-    height: 119px;
-    word-wrap: break-word;
-  }
-  
-  .group-601 {
-    position: absolute;
-    top: 5px;
-    height: 3135px;
-    width: 100%;
-  }
-  
-  .group-364 {
-
-    margin-bottom: 101px;
-    box-sizing: border-box;
-    background-color: rgba(48, 61, 60, 1);
-    width: 100%;
   }
   
   .hamburger {
@@ -127,7 +56,6 @@ p {
     left: 35px;
     top: -5px;
   }
-  
   .group-649 {
     width: 100%;
   }
@@ -166,115 +94,14 @@ p {
     left: 920px;
     top: -15px;
   }
-  
-  .group-2 {
-    position: absolute;
-    left: 70px;
-    top: 172px;
-    margin-bottom: 160px;
-    box-sizing: border-box;
-    width: fit-content;
-  }
-  
-  .txt-957 {
-    font-size: 50px;
-    font-family: Museo Sans, sans-serif;
-    font-weight: undefined;
-    color: rgba(203, 215, 223, 1);
-    word-wrap: break-word;
-    margin-bottom: 6px;
-  }
-  
-  .rectangle-3 {
-    width: 858px;
-    height: 382px;
-    margin-bottom: 13px;
-  }
-  
-  .txt-673 {
-    font-size: 36px;
-    font-family: Museo Sans, sans-serif;
-    font-weight: undefined;
-    color: rgba(203, 215, 223, 1);
-    width: 860px;
-    height: 119px;
-    word-wrap: break-word;
-  }
-  
-  .group-3 {
-    position: absolute;
-    left: 70px;
-    top: 922px;
-    margin-bottom: 979px;
-    box-sizing: border-box;
-    width: fit-content;
-  }
-  
-  .txt-957 {
-    font-size: 50px;
-    font-family: Museo Sans, sans-serif;
-    font-weight: undefined;
-    color: rgba(203, 215, 223, 1);
-    word-wrap: break-word;
-    margin-bottom: 6px;
-  }
-  
-  .rectangle-3 {
-    width: 858px;
-    height: 382px;
-    margin-bottom: 13px;
-  }
-  
-  .txt-673 {
-    font-size: 36px;
-    font-family: Museo Sans, sans-serif;
-    font-weight: undefined;
-    color: rgba(203, 215, 223, 1);
-    width: 860px;
-    height: 119px;
-    word-wrap: break-word;
-  }
-  
-  .group-5 {
-    position: absolute;
-    left: 70px;
-    top: 2362px;
-    width: fit-content;
-  }
-  
-  .txt-957 {
-    font-size: 50px;
-    font-family: Museo Sans, sans-serif;
-    font-weight: undefined;
-    color: rgba(203, 215, 223, 1);
-    word-wrap: break-word;
-    margin-bottom: 6px;
-  }
-  
-  .rectangle-3 {
-    width: 858px;
-    height: 382px;
-    margin-bottom: 13px;
-  }
-  
-  .txt-673 {
-    font-size: 36px;
-    font-family: Museo Sans, sans-serif;
-    font-weight: undefined;
-    color: rgba(203, 215, 223, 1);
-    width: 860px;
-    height: 119px;
-    word-wrap: break-word;
-  }
-  
   .logo-wip-1 {
     position: absolute;
-    top: 0px;
+    top: -18px;
     left: 376px;
     width: 327px;
     height: 136px;
   }
-  
+
   .group-1 {
     position: absolute;
     top: 2035px;
