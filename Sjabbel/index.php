@@ -101,12 +101,16 @@
       />-->
       <div class="bar">
         <div class="rect"> </div>
-        <div class="home_button"></div>
-        <img src="assets/homegr.png" alt="home" class="homeimg">
+        <a href="index.php">
+            <div class="home_button"></div>
+            <img src="assets/homegr.png" alt="home" class="homeimg">
+        </a>
         <a href="games.php">
           <img src="assets/Crosshair.png" alt="games" class="gamesimg">
         </a>
-        <img src="assets/Map.png" alt="map" class="mapimg">
+        <a href="map.php">
+            <img src="assets/Map.png" alt="map" class="mapimg">
+        </a>      
       </div>
     </div>
 </body>

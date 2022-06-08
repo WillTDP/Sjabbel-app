@@ -127,49 +127,6 @@ p {
     left: 57px;
     top: 262px;
 }
-.pooltxt {
-    /* Pool */
-position: absolute;
-width: 96px;
-height: 54px;
-top: -60px;
-left: 10px;
-font-family: 'Museo Sans';
-font-weight: 500;
-font-size: 45px;
-line-height: 54px;
-/* identical to box height */
-color: #CBD7DF;
-}
-.poolimg{
-    width: 417px;
-    height: 382px;
-}
-.snooker{
-    position: absolute;
-    width: 417px;
-    height: 449px;
-    left: 557px;
-    top: 262px;
-}
-.snookertxt {
-    /* Pool */
-position: absolute;
-width: 96px;
-height: 54px;
-top: -60px;
-left: 10px;
-font-family: 'Museo Sans';
-font-weight: 500;
-font-size: 45px;
-line-height: 54px;
-/* identical to box height */
-color: #CBD7DF;
-}
-.poolimg{
-    width: 417px;
-    height: 382px;
-}
 
 
 .bar {

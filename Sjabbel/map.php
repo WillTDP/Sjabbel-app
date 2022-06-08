@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="stylegames.css">
+    <link rel="stylesheet" href="stylemap.css">
 </head>
 <body>
 <div class="home flex-col-hstart-vstart clip-contents">
@@ -33,16 +33,7 @@
         alt="Not Found"
         class="logo-wip-1"
       />
-    <div class="gaems">
-        <div class="pool">
-            <p class="pooltxt">Pool</p>
-            <img class="poolimg" src="assets/Pool.png" alt="pool">
-        </div>
-        <div class="snooker">
-            <p class="snookertxt">Snooker</p>
-            <img class="snookerimg" src="assets/Snooker.png" alt="snooker">
-        </div>
-    </div>
+
 
       <div class="bar">
         <div class="rect"> </div>
@@ -51,12 +42,11 @@
             <img src="assets/home.png" alt="home" class="homeimg">
         </a>
         <a href="games.php">
-          <img src="assets/Crosshairgr.png" alt="games" class="gamesimg">
+          <img src="assets/Crosshair.png" alt="games" class="gamesimg">
         </a>
         <a href="map.php">
-            <img src="assets/Map.png" alt="map" class="mapimg">
-        </a>
-      </div>
+            <img src="assets/Mapgr.png" alt="map" class="mapimg">
+        </a>  
     </div>
 </body>
 </html> 
