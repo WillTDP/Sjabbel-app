@@ -33,11 +33,12 @@
         alt="Not Found"
         class="logo-wip-1"
       />
-      <img
-        src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-13%3A23?alt=media&token=f788589e-efad-4228-b19f-77c7764dd355"
-        alt="Not Found"
-        class="group-1"
-      />
+    <div class="gaems">
+        <div class="pool">
+            <p class="pooltxt">Pool</p>
+            <img class="poolimg" src="assets/Pool.png" alt="pool">
+        </div>
+    </div>
 
       <div class="bar">
         <div class="rect"> </div>

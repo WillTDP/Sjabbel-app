@@ -88,19 +88,7 @@ p {
     background-color: rgba(48, 61, 60, 1);
     width: 100%;
   }
-  
-  .hamburger {
-    margin-right: 793px;
-    box-sizing: border-box;
-    height: fit-content;
-  }
-  
-  .circles {
-    margin-bottom: 11px;
-    box-sizing: border-box;
-    width: 100%;
-  }
-  
+
   .ellipse-1 {
     border: 5px solid rgba(242, 222, 222, 1);
     box-sizing: border-box;
@@ -126,10 +114,6 @@ p {
     position: absolute;
     left: 35px;
     top: -5px;
-  }
-  
-  .group-649 {
-    width: 100%;
   }
   
   .ellipse-3 {
