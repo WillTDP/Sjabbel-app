@@ -40,7 +40,10 @@
         <div class="pic"> </div>
         <div class="more"></div>
         <div class="name">TheDoctor14</div>
+        <div class="rname">Real Name: John Smith</div>
+        <div class="age">Age: 21</div>
         <div class="neonbar">
+            <img class="nbarimg" src="assets/bar.png" alt="bar">
             <a class="current" href="profile.php">Current Events</a>
             <a class="past" href="profile2.php">Past Events</a>
         </div>
