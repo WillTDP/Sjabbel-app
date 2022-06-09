@@ -21,11 +21,13 @@
               <div class="ellipse-4" />
             </div>
           </div>
-          <img
-            src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-372%3A82?alt=media&token=6e757a6e-f5dd-472c-8377-eab67ca9c6f3"
-            alt="Not Found"
-            class="user"
-          />
+          <a href="profile.php">
+            <img
+                src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-372%3A82?alt=media&token=6e757a6e-f5dd-472c-8377-eab67ca9c6f3"
+                alt="Not Found"
+                class="user"
+            />
+          </a>
         </div>
         <div class="group-2">
           <p class="txt-957">Afterwork 50jaar SVR</p>

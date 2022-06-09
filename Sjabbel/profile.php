@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="stylemap.css">
+    <link rel="stylesheet" href="styleprofile.css">
 </head>
 <body>
 <div class="home flex-col-hstart-vstart clip-contents">
@@ -23,7 +23,7 @@
           </div>
           <a href="profile.php">
             <img
-                src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-372%3A82?alt=media&token=6e757a6e-f5dd-472c-8377-eab67ca9c6f3"
+                src="assets/Usersgr.png"
                 alt="Not Found"
                 class="user"
             />
@@ -47,8 +47,9 @@
           <img src="assets/Crosshair.png" alt="games" class="gamesimg">
         </a>
         <a href="map.php">
-            <img src="assets/Mapgr.png" alt="map" class="mapimg">
-        </a>  
+            <img src="assets/Map.png" alt="map" class="mapimg">
+        </a>
+      </div>
     </div>
 </body>
 </html> 
