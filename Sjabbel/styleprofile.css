@@ -28,6 +28,9 @@
 p {
     margin: 0;
   }
+a{
+    text-decoration: none;
+}
   
   .clip-contents {
     overflow: hidden;
@@ -120,15 +123,54 @@ p {
     width: 145px;
     height: 145px;
   }
-.pool{
-    position: absolute;
-    width: 417px;
-    height: 449px;
-    left: 57px;
-    top: 262px;
+.profile{
+
 }
-
-
+.pic{
+      /* Ellipse 2 */
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 314px;
+    top: 174px;
+    background: #b0d1cc;
+    border-radius: 50%;
+}
+.name {
+    /* TheDoctor14 */
+    position: absolute;
+    width: 293px;
+    height: 58px;
+    left: 334px;
+    top: 548px;
+    font-family: 'Museo Sans';
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.neonbar{
+    position: absolute;
+    width: 293px;
+    height: 58px;
+    left: 150px;
+    top: 700px;
+    font-family: 'Museo Sans';
+    font-weight: 500;
+    font-size: 48px;
+    min-width: 1000px;
+}
+.current{
+    position: absolute;
+    left: -80px;
+    color: #FFFFFF;
+}
+.past{
+    position: absolute;
+    left: 450px;
+    color: #FFFFFF;
+}
 .bar {
   display: flex;
 }

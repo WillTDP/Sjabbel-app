@@ -35,7 +35,16 @@
         alt="Not Found"
         class="logo-wip-1"
       />
-
+    
+      <div class="profile">
+        <div class="pic"> </div>
+        <div class="more"></div>
+        <div class="name">TheDoctor14</div>
+        <div class="neonbar">
+            <a class="current" href="profile.php">Current Events</a>
+            <a class="past" href="profile2.php">Past Events</a>
+        </div>
+      </div>
 
       <div class="bar">
         <div class="rect"> </div>
