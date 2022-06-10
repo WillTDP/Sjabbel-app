@@ -37,15 +37,29 @@
       />
     
       <div class="profile">
-        <div class="pic"> </div>
-        <div class="more"></div>
-        <div class="name">TheDoctor14</div>
-        <div class="rname">Real Name: John Smith</div>
-        <div class="age">Age: 21</div>
+            <div class="details">
+            <div class="pic"> </div>
+            <div class="more"></div>
+            <div class="name">TheDoctor14</div>
+            <div class="rname">Real Name: John Smith</div>
+            <div class="age">Age: 21</div>
+          </div>
         <div class="neonbar">
             <img class="nbarimg" src="assets/bar.png" alt="bar">
             <a class="current" href="profile.php">Current Events</a>
             <a class="past" href="profile2.php">Past Events</a>
+        </div>
+        <div class="events">
+            <div class="event_new">
+                <p class="Cafe">t' Zolderke Stamcafé</p>
+                <p class="adress">Hoefkantweg 5 1860 Meise</p>
+                <p class="time">21h to 00h</p>
+            </div>
+            <div class="event_old">
+                <p class="Cafe">ODT</p>
+                <p class="adress">Meisestraat 16 1890 Londerzeel</p>
+                <p class="time">21h to 00h</p>
+            </div>
         </div>
       </div>
 
