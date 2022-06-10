@@ -134,6 +134,11 @@ a{
     background: #b0d1cc;
     border-radius: 50%;
 }
+.more{
+    position: absolute;
+    top: 150px;
+    left: 650px;
+}
 .name {
     /* TheDoctor14 */
     position: absolute;

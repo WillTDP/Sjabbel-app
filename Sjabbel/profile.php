@@ -37,9 +37,10 @@
       />
     
       <div class="profile">
-            <div class="details">
             <div class="pic"> </div>
-            <div class="more"></div>
+            <div class="more">
+                <img src="assets/more.png" alt="more">
+            </div>
             <div class="name">TheDoctor14</div>
             <div class="rname">Real Name: John Smith</div>
             <div class="age">Age: 21</div>
