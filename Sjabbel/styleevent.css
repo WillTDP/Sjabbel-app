@@ -28,9 +28,6 @@
 p {
     margin: 0;
   }
-a{
-    text-decoration: none;
-}
   
   .clip-contents {
     overflow: hidden;
@@ -123,159 +120,25 @@ a{
     width: 145px;
     height: 145px;
   }
-
-.pic{
-      /* Ellipse 2 */
+.pool{
     position: absolute;
-    width: 350px;
-    height: 350px;
-    left: 314px;
-    top: 174px;
-    background: #b0d1cc;
-    border-radius: 50%;
-}
-.more{
-    position: absolute;
-    top: 150px;
-    left: 650px;
-}
-.name {
-    /* TheDoctor14 */
-    position: absolute;
-    width: 293px;
-    height: 58px;
-    left: 334px;
-    top: 548px;
-    font-family: 'Museo Sans';
-    font-weight: 500;
-    font-size: 48px;
-    line-height: 58px;
-    /* identical to box height */
-    color: #FFFFFF;
-}
-.rname{
-        position: absolute;
-        width: 293px;
-        height: 58px;
-        left: 0px;
-        top: 615px;
-        font-family: 'Museo Sans';
-        font-weight: 500;
-        font-size: 36px;
-        line-height: 58px;
-        color: #FFFFFF;
-        min-width: 450px;
-}
-.age{
-    position: absolute;
-    width: 293px;
-    height: 58px;
-    left: 895px;
-    top: 615px;
-    font-family: 'Museo Sans';
-    font-weight: 500;
-    font-size: 36px;
-    line-height: 58px;
-    color: #FFFFFF;
-    min-width: 450px;
-}
-.neonbar{
-    position: absolute;
-    width: 293px;
-    height: 58px;
-    left: 150px;
-    top: 700px;
-    font-family: 'Museo Sans';
-    font-weight: 500;
-    font-size: 48px;
-    min-width: 1000px;
-}
-.nbarimg{
-    position: absolute;
-    left: -165px;
-    top: -30px;
-}
-.current{
-    position: absolute;
-    left: -80px;
-    color: #FFFFFF;
-}
-.past{
-    position: absolute;
-    left: 450px;
-    color: #FFFFFF;
+    width: 417px;
+    height: 449px;
+    left: 57px;
+    top: 262px;
 }
 
-.event_new{
-position: absolute;
-width: 913px;
-height: 250px;
-left: 50px;
-top: 873px;
-background: #656565;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 0px 15px rgba(0, 0, 0, 0.75);
-border-radius: 43px;
-}
-.event_old{
-    position: absolute;
-    width: 913px;
-    height: 250px;
-    left: 50px;
-    top: 1173px;
-    background: #656565;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 0px 15px rgba(0, 0, 0, 0.75);
-    border-radius: 43px;
-    }
-.Cafe{
-    position: absolute;
-    width: 674.01px;
-    height: 120px;
-    left: 30px;
-    top: 25px;
-    font-family: 'Museo Sans';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 45px;
-    line-height: 54px;
-    color: #FFFFFF;
-}
-.adress{
-    position: absolute;
-    width: 605px;
-    height: 39px;
-    left: 30px;
-    top: 155px;
-    font-family: 'Museo Sans';
-    font-style: normal;
-    font-weight: 100;
-    font-size: 45px;
-    line-height: 85%;
-    color: #FFFFFF;
-    min-width: 500px;
-}
-.time{
-    position: absolute;
-    width: 605px;
-    height: 39px;
-    left: 650px;
-    top: 155px;
-    font-family: 'Museo Sans';
-    font-style: normal;
-    font-weight: 100;
-    font-size: 45px;
-    line-height: 85%;
-    color: #FFFFFF;
-}
+
 .bar {
   display: flex;
 }
-.rect {
+ .rect {
     /* Rectangle 2 */
  position: absolute;
   width: 1080px;
   height: 161px;
-  left: 0px;
-  top: 2231px;
+  left: -35px;
+  top: 2203px;
   background: #112523;
   /* shadow thingys */
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 0px 15px rgba(0, 0, 0, 0.32);
@@ -286,8 +149,8 @@ border-radius: 43px;
 position: absolute;
 width: 181px;
 height: 181px;
-left: 449px;
-top: 2213px;
+left: 414px;
+top: 2181px;
 background: #3D4F4C;
 border-radius: 50%;
 /* Sjabble button shadowy thingy */
@@ -297,22 +160,22 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 0px 15px rgba(0, 0, 0, 0.
   position: absolute;
   width: 140px;
   height: 140px;
-  left: 470px;
-  top: 2236px;
+  left: 435px;
+  top: 2204px;
 }
 .mapimg {
   position: absolute;
   width: 110.5px;
   height: 105px;
-  left: 255.75px;
-  top: 2256.5px;
+  left: 220.75px;
+  top: 2224.5px;
 }
 .gamesimg {
   position: absolute;
   width: 100px;
   height: 100px;
-  left: 726.5px;
-  top: 2259.5px;
+  left: 691.5px;
+  top: 2227.5px;
 }
   /*.bottom-bar {
     position: absolute;
