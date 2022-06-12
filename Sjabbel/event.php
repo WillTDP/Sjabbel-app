@@ -54,6 +54,10 @@ Muziek, drank, vuur en sfeer worden allemaal voorzien!.</p>
       <p class="Date">Date:</p>
       <p class="DatE">13/05/2022, Tomorrow</p>
       <p class="users">Participants</p>
+      <a href="agenda.php" class="participatebtn">
+        <p class="btn"></p>
+        <p class="Participate">Participate</p>
+      </a>
       </div>
 
       <div class="bar">

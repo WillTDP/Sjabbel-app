@@ -29,19 +29,21 @@
             />
           </a>
         </div>
-        <div class="group-2">
-          <p class="txt-957">Afterwork 50jaar SVR</p>
-          <img
-            src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-14%3A24?alt=media&token=41a8b986-0db6-411e-b9a0-ce20eb8c99a4"
-            alt="Not Found"
-            class="rectangle-3"
-          />
-          <p class="txt-673">
-            De Scoete van Roi bestaat 50 jaar en dat moet gevierd worden! 🤩 Kom
-            genieten van een heerlijk hapje en drankje met zomerige deuntjes op
-            de achtergrond; sfeer gegarandeerd! 🕺🏼🍔🍹🍸🍺 Save the date!
-          </p>
-        </div>
+        <a href="event.php">
+          <div class="group-2">
+            <p class="txt-957">Afterwork 50jaar SVR</p>
+            <img
+              src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-14%3A24?alt=media&token=41a8b986-0db6-411e-b9a0-ce20eb8c99a4"
+              alt="Not Found"
+              class="rectangle-3"
+            />
+            <p class="txt-673">
+             De Scoete van Roi bestaat 50 jaar en dat moet gevierd worden! 🤩 Kom
+              genieten van een heerlijk hapje en drankje met zomerige deuntjes op
+              de achtergrond; sfeer gegarandeerd! 🕺🏼🍔🍹🍸🍺 Save the date!
+            </p>
+         </div>
+        </a>
         <div class="group-3">
           <p class="txt-957">Stam Cafe</p>
           <img
