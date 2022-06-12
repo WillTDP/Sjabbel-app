@@ -35,7 +35,26 @@
         alt="Not Found"
         class="logo-wip-1"
       />
-
+      <div class="event">
+        <img src="assets/event1img.png" alt="eventimg" class="eventimg">
+        <a class="back" href="index.php">Back</a>
+        <p class="title">Stam Cafe</p>
+        <p class="Details">Event Details</p>
+        <p class="text">
+Scoete van Roi wordt 50 jaar en dat betekend voor t'Zolderke 
+natuurlijk ook feest!!
+Wij nodigen alle leiding en oud-leiding uit voor een gezellige 
+avond outdoor-zolderke in de tuin van het meisjeslokaal.
+Iedereen die kan bewijzen (oud-)leiding te zijn 
+(foto's, hemd, ...) krijgt een drankje op de kosten van 
+t'Zolderke zelf!!
+Muziek, drank, vuur en sfeer worden allemaal voorzien!.</p>
+      <p class="Place">Place:</p>
+      <p class="PlacE">t’ Zolderke, Hoefkantweg 5 1860 Meise</p>
+      <p class="Date">Date:</p>
+      <p class="DatE">13/05/2022, Tomorrow</p>
+      <p class="users">Participants</p>
+      </div>
 
       <div class="bar">
         <div class="rect"> </div>
