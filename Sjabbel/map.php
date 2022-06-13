@@ -41,13 +41,13 @@
         alt="Not Found"
         class="logo-wip-1"
       />
-
-<div class="popout"  onclick="off()">
+<!--trying to get the hamburger menu to work-->
+<div id="popout"  onclick="off()">
     <div class="rectangle"></div>
 </div>
 <div class="thing" onclick="on()">
 aaaaaaaaaaa
-</button>
+</div>
 <script>
 function on() {
   document.getElementById("popout").style.display = "block";

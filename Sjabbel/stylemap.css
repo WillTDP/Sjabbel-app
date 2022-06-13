@@ -65,7 +65,7 @@ p {
   left: -35px;
   top: -30px;
   width: 225px;
-  height: 2225px;
+  height: 2125px;
   background: #112523;
   border-radius: 0px 97px 97px 0px;
 }
@@ -154,10 +154,10 @@ p {
     left: 57px;
     top: 262px;
 }
-.thing{
+#thing{
   position: absolute;
   top: -20px;
-  left: 10px;
+  left: 120px;
   width: 150px;
   height: 150px;
   color: #112523;
