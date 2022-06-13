@@ -6,13 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="stylemap.css">
+    <script type="module" src="map.js"></script>
 </head>
 <body>
+
 <div class="home flex-col-hstart-vstart clip-contents">
+<div id="map"></div>
+<script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCUc0moOQI25n2Bbt3vKjmQw-xl2tf0Ey8&callback=initMap">
+  </script>
       <div class="group-601 flex-col-hcenter">
         <div class="group-364">
           <div class="hamburger flex-col">
-            <div class="circles flex-row">
+            <div class="circles flex-row"   onclick="on()">
               <div class="ellipse-1" />
               <div class="ellipse-2" />
             </div>
@@ -36,7 +42,9 @@
         class="logo-wip-1"
       />
 
-
+<div class="popout"  onclick="off()">
+    <div class="rectangle"></div>
+</div>
       <div class="bar">
         <div class="rect"> </div>
         <a href="index.php">
@@ -51,4 +59,5 @@
         </a>  
     </div>
 </body>
+
 </html> 
