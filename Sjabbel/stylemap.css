@@ -154,7 +154,15 @@ p {
     left: 57px;
     top: 262px;
 }
-
+.thing{
+  position: absolute;
+  top: -20px;
+  left: 10px;
+  width: 150px;
+  height: 150px;
+  color: #112523;
+  background-color: #112523;
+}
 
 .bar {
   display: flex;

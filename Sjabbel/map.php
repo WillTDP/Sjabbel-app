@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Sjabbel</title>
     <link rel="stylesheet" href="stylemap.css">
     <script type="module" src="map.js"></script>
 </head>
@@ -45,6 +45,18 @@
 <div class="popout"  onclick="off()">
     <div class="rectangle"></div>
 </div>
+<div class="thing" onclick="on()">
+aaaaaaaaaaa
+</button>
+<script>
+function on() {
+  document.getElementById("popout").style.display = "block";
+}
+
+function off() {
+  document.getElementById("popout").style.display = "none";
+}
+</script>
       <div class="bar">
         <div class="rect"> </div>
         <a href="index.php">
