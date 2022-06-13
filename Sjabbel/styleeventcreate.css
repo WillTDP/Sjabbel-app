@@ -173,7 +173,7 @@ p {
   position: absolute;
   width: 160px;
   height: 82px;
-  left: 0px;
+  left: 80px;
   top: 120px;
   font-family: 'Museo Sans';
   font-style: normal;
@@ -185,6 +185,17 @@ p {
   text-decoration: none;
   filter: drop-shadow(0px 0px 10px #10CFDB);
 }
+.arrow{
+    position: absolute;
+    transform: rotate(-180deg);
+    width: 71px;
+    height: 71px;
+    left: 0px;
+    top: 120px;
+    filter: drop-shadow(0px 0px 10px #10CFDB);
+
+}
+
 .title{
   position: absolute;
 width: 987px;
@@ -299,6 +310,13 @@ color: #CBD7DF;
     background: #F7F7F7;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 0px 15px rgba(0, 0, 0, 0.32);
     border-radius: 43px;
+}
+.locationimg{
+    position: absolute;
+    width: 91px;
+    height: 101px;
+    left: 865px;
+    top: 1830px;
 }
 .users{
   position: absolute;

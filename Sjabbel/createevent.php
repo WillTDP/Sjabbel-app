@@ -5,14 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sjabbel</title>
-    <link rel="stylesheet" href="styleevent.css">
+    <link rel="stylesheet" href="styleeventcreate.css">
+    <script type="module" src="map.js"></script>
 </head>
 <body>
+
 <div class="home flex-col-hstart-vstart clip-contents">
       <div class="group-601 flex-col-hcenter">
         <div class="group-364">
-          <div class="hamburger flex-col" onclick="on()">
-            <div class="circles flex-row" onclick="on()">
+          <div class="hamburger flex-col">
+            <div class="circles flex-row"   onclick="on()">
               <div class="ellipse-1" />
               <div class="ellipse-2" />
             </div>
@@ -36,32 +38,33 @@
         class="logo-wip-1"
       />
       <div class="event">
-        <img src="assets/event1img.png" alt="eventimg" class="eventimg">
+        <img src="assets/placeholder.png" alt="eventimg" class="eventimg">
         <a class="back" href="index.php">Back</a>
         <img class="arrow" src="assets/arrow-left-circle.png" alt="arrow">
-        <p class="title">Stam Cafe</p>
-        <p class="Details">Event Details</p>
-        <p class="text">
-Scoete van Roi wordt 50 jaar en dat betekend voor t'Zolderke 
-natuurlijk ook feest!!
-Wij nodigen alle leiding en oud-leiding uit voor een gezellige 
-avond outdoor-zolderke in de tuin van het meisjeslokaal.
-Iedereen die kan bewijzen (oud-)leiding te zijn 
-(foto's, hemd, ...) krijgt een drankje op de kosten van 
-t'Zolderke zelf!!
-Muziek, drank, vuur en sfeer worden allemaal voorzien!.</p>
-      <p class="Place">Place:</p>
-      <p class="PlacE">t’ Zolderke, Hoefkantweg 5 1860 Meise</p>
-      <p class="Date">Date:</p>
-      <p class="DatE">13/05/2022, Tomorrow</p>
-      <p class="users">Participants</p>
-      <a href="agenda.php" class="participatebtn">
+        <p class="title">Event Name</p>
+        <input type="text" class="titlebox"></p>
+        <div class="dat">
+            <p class="Date">Event Date</p>
+            <input type="text" class="DatE">
+            <p class="slash">.../.../....</p>
+            <img class="calendar2" src="assets/calendarb.png" alt="calendar">
+        </div>
+        <div class="descr">
+            <p class="Details">Event Description</p>
+            <input type="text" class="descrbox">
+        </div>
+      <p class="Place">Location</p>
+      <input type="text" class="PlacE">
+      <img class="locationimg" src="assets/location.png" alt="">
+      <a href="event.php" class="participatebtn">
         <p class="btn"></p>
-        <p class="Participate">Participate</p>
+        <p class="Participate">Create Event</p>
       </a>
       </div>
 
-      <!--trying to get the hamburger menu to work-->
+
+
+<!--trying to get the hamburger menu to work-->
 <div id="popout"  onclick="off()">
     <div class="rectangle"></div>
     <a href="agenda.php">
@@ -79,7 +82,6 @@ function off() {
   document.getElementById("popout").style.display = "none";
 }
 </script>
-
       <div class="bar">
         <div class="rect"> </div>
         <a href="index.php">
@@ -90,8 +92,9 @@ function off() {
           <img src="assets/Crosshair.png" alt="games" class="gamesimg">
         </a>
         <a href="map.php">
-            <img src="assets/Map.png" alt="map" class="mapimg">
+            <img src="assets/Mapgr.png" alt="map" class="mapimg">
         </a>  
     </div>
 </body>
+
 </html> 
