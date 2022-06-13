@@ -17,7 +17,7 @@
   </script>
       <div class="group-601 flex-col-hcenter">
         <div class="group-364">
-          <div class="hamburger flex-col">
+          <div class="hamburger flex-col"  onclick="on()">
             <div class="circles flex-row"   onclick="on()">
               <div class="ellipse-1" />
               <div class="ellipse-2" />
@@ -44,10 +44,11 @@
 <!--trying to get the hamburger menu to work-->
 <div id="popout"  onclick="off()">
     <div class="rectangle"></div>
-</div>
-<div id="thing" >
-  <button onclick="on()">aaaaaaaaaaa</button>
-
+    <a href="agenda.php">
+      <img src="assets/calendar.png" alt="callendar" class="calendar">
+    </a>
+    <img src="assets/Settings.png" alt="settings" class="settings">
+    <img src="assets/Bell.png" alt="bell" class="bell">
 </div>
 <script>
 function on() {

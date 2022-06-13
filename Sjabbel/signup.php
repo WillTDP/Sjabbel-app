@@ -26,7 +26,7 @@ if (!empty($_POST)) {
 </head>
 
 <body>
-    <div class="netflixLogin">
+    <div class="Login">
         <div class="form form--login">
             <form action="" method="post">
                 <h2 form__title>Sign up</h2>

@@ -36,6 +36,42 @@ a{
     overflow: hidden;
   }
   
+  #popout{
+    position: fixed;
+    display: none;
+  }
+  
+  .rectangle{
+    position: absolute;
+    left: 0px;
+    top: 105px;
+    width: 225px;
+    height: 2105px;
+    background: #112523;
+    border-radius: 0px 97px 97px 0px;
+  }
+  .calendar{
+    position: absolute;
+    width: 110.5px;
+    height: 105px;
+    left: 45px;
+    top: 240px;
+  }
+  .settings{
+    position: absolute;
+    width: 110.5px;
+    height: 105px;
+    left: 45px;
+    top: 470px;
+  }
+  .bell{
+    position: absolute;
+    width: 110.5px;
+    height: 105px;
+    left: 45px;
+    top: 700px;
+  }
+
   .home {
     position: relative;
     background: linear-gradient(0deg, rgba(48, 61, 60, 1), rgba(48, 61, 60, 1)),

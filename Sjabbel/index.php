@@ -11,8 +11,8 @@
 <div class="home flex-col-hstart-vstart clip-contents">
       <div class="group-601 flex-col-hcenter">
         <div class="group-364">
-          <div class="hamburger flex-col">
-            <div class="circles flex-row">
+          <div class="hamburger flex-col" onclick="on()">
+            <div class="circles flex-row" onclick="on()">
               <div class="ellipse-1" />
               <div class="ellipse-2" />
             </div>
@@ -93,16 +93,38 @@
         alt="Not Found"
         class="logo-wip-1"
       />
-      <img
-        src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-13%3A23?alt=media&token=f788589e-efad-4228-b19f-77c7764dd355"
-        alt="Not Found"
-        class="group-1"
-      />
+      <a href="createevent.php">
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-13%3A23?alt=media&token=f788589e-efad-4228-b19f-77c7764dd355"
+          alt="Not Found"
+          class="group-1"
+        />
+      </a>
      <!--<img
         src="https://firebasestorage.googleapis.com/v0/b/unify-bc2ad.appspot.com/o/6o5xp34susd-138%3A13?alt=media&token=5bc2e080-f9fd-447e-8c8a-ee9e271ed30a"
         alt="Not Found"
         class="bottom-bar"
       />-->
+
+<!--trying to get the hamburger menu to work-->
+<div id="popout"  onclick="off()">
+    <div class="rectangle"></div>
+    <a href="agenda.php">
+      <img src="assets/calendar.png" alt="callendar" class="calendar">
+    </a>
+    <img src="assets/Settings.png" alt="settings" class="settings">
+    <img src="assets/Bell.png" alt="bell" class="bell">
+</div>
+<script>
+function on() {
+  document.getElementById("popout").style.display = "block";
+}
+
+function off() {
+  document.getElementById("popout").style.display = "none";
+}
+</script>
+
       <div class="bar">
         <div class="rect"> </div>
         <a href="index.php">

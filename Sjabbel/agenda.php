@@ -11,8 +11,8 @@
 <div class="home flex-col-hstart-vstart clip-contents">
       <div class="group-601 flex-col-hcenter">
         <div class="group-364">
-          <div class="hamburger flex-col">
-            <div class="circles flex-row">
+          <div class="hamburger flex-col" onclick="on()">
+            <div class="circles flex-row" onclick="on()">
               <div class="ellipse-1" />
               <div class="ellipse-2" />
             </div>
@@ -84,6 +84,24 @@
             </div>
             </a>
       </div>
+<!--trying to get the hamburger menu to work-->
+<div id="popout"  onclick="off()">
+    <div class="rectangle"></div>
+    <a href="agenda.php">
+      <img src="assets/calendar.png" alt="callendar" class="calendar">
+    </a>
+    <img src="assets/Settings.png" alt="settings" class="settings">
+    <img src="assets/Bell.png" alt="bell" class="bell">
+</div>
+<script>
+function on() {
+  document.getElementById("popout").style.display = "block";
+}
+
+function off() {
+  document.getElementById("popout").style.display = "none";
+}
+</script>
 
       <div class="bar">
         <div class="rect"> </div>
