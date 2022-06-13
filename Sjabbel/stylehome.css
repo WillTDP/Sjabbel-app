@@ -42,7 +42,7 @@ p {
   }
   
   #popout{
-    position: fixed;
+    position: absolute;
     display: none;
   }
   

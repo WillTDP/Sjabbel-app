@@ -56,7 +56,7 @@ p {
     height: 2400px;
   }
 #popout{
-  position: fixed;
+  position: absolute;
   display: none;
 }
 
