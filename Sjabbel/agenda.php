@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="styleevent.css">
+    <link rel="stylesheet" href="styleagenda.css">
 </head>
 <body>
 <div class="home flex-col-hstart-vstart clip-contents">
@@ -35,29 +35,54 @@
         alt="Not Found"
         class="logo-wip-1"
       />
+
+      <div class="months">
+          <p class="Current">May</p>
+          <img class="arrow1" src="assets/arrow-left-circle.png" alt="circle">
+          <img class="arrow2" src="assets/arrow-left-circle.png" alt="circle">
+          <p class="onemo">April</p>
+          <p class="twmo">June</p>
+      </div>
+      <div class="days">
+        <div class="el">
+          <p class="ele"></p>
+          <p class="elev">11</p>
+        </div>
+        <div class="tw">
+          <p class="twe"></p>
+          <p class="twel">12</p>
+        </div>
+        <div class="th">
+          <p class="thi"></p>
+          <p class="thir">13</p>
+        </div>
+        <div class="fo">
+          <p class="fou"></p>
+          <p class="four">14</p>
+        </div>
+        <div class="fi">
+          <p class="fiv"></p>
+          <p class="five">15</p>
+        </div>
+        <div class="si">
+          <p class="six"></p>
+          <p class="sixt">16</p>
+        </div>
+        <div class="se">
+          <p class="sev"></p>
+          <p class="seve">17</p>
+        </div>
+
+      </div>
       <div class="event">
-        <img src="assets/event1img.png" alt="eventimg" class="eventimg">
-        <a class="back" href="index.php">Back</a>
-        <p class="title">Stam Cafe</p>
-        <p class="Details">Event Details</p>
-        <p class="text">
-Scoete van Roi wordt 50 jaar en dat betekend voor t'Zolderke 
-natuurlijk ook feest!!
-Wij nodigen alle leiding en oud-leiding uit voor een gezellige 
-avond outdoor-zolderke in de tuin van het meisjeslokaal.
-Iedereen die kan bewijzen (oud-)leiding te zijn 
-(foto's, hemd, ...) krijgt een drankje op de kosten van 
-t'Zolderke zelf!!
-Muziek, drank, vuur en sfeer worden allemaal voorzien!.</p>
-      <p class="Place">Place:</p>
-      <p class="PlacE">t’ Zolderke, Hoefkantweg 5 1860 Meise</p>
-      <p class="Date">Date:</p>
-      <p class="DatE">13/05/2022, Tomorrow</p>
-      <p class="users">Participants</p>
-      <a href="agenda.php" class="participatebtn">
-        <p class="btn"></p>
-        <p class="Participate">Participate</p>
-      </a>
+            <p class="neon"></p>
+            <a href="event.php">
+            <div class="event_new">
+                <p class="Cafe">t' Zolderke Stamcafé</p>
+                <p class="adress">Hoefkantweg 5 1860 Meise</p>
+                <p class="time">21h to 00h</p>
+            </div>
+            </a>
       </div>
 
       <div class="bar">
