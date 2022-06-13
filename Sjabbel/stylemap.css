@@ -55,7 +55,7 @@ p {
     width: 1080px;
     height: 2400px;
   }
-.popout{
+#popout{
   position: fixed;
   display: none;
 }
@@ -63,9 +63,9 @@ p {
 .rectangle{
   position: absolute;
   left: -35px;
-  top: -30px;
+  top: 75px;
   width: 225px;
-  height: 2125px;
+  height: 2105px;
   background: #112523;
   border-radius: 0px 97px 97px 0px;
 }
@@ -156,12 +156,12 @@ p {
 }
 #thing{
   position: absolute;
-  top: -20px;
-  left: 120px;
-  width: 150px;
-  height: 150px;
-  color: #112523;
-  background-color: #112523;
+  top: -10px;
+  left: 0px;
+  width: 100px;
+  height: 100px;
+  color: #f714a0;
+  background-color: #f714a0;
 }
 
 .bar {

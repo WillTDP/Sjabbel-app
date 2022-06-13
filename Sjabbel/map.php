@@ -45,8 +45,9 @@
 <div id="popout"  onclick="off()">
     <div class="rectangle"></div>
 </div>
-<div class="thing" onclick="on()">
-aaaaaaaaaaa
+<div id="thing" >
+  <button onclick="on()">aaaaaaaaaaa</button>
+
 </div>
 <script>
 function on() {
